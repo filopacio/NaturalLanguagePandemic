@@ -5,4 +5,4 @@ The projects analyses both singularly and generally the most popular sentiments 
 
 This is a mainly descriptive anaylysis which attempts to identify relevant patterns in terms of sentiments, emotions and use of keywords when a pandemic outbreak occurs.
 
-![example][https://github.com/filopacio/NaturalLanguagePandemic/blob/main/ev_graph.png]
+![example](https://github.com/filopacio/NaturalLanguagePandemic/blob/main/ev_graph.png)
